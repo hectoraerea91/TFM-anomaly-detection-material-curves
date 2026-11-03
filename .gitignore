@@ -1,0 +1,12 @@
+# Dataset original: descargar desde la fuente científica
+anomaly_detection_on_nanoindentation*.zip
+nanoindentation_dataset/
+
+# Resultados generados por el notebook
+resultados/
+*.joblib
+
+# Entornos / cachés
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
