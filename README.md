@@ -14,9 +14,11 @@ Se utiliza el conjunto público:
 
 DOI: `10.18126/yvgn-w386`
 
-El dataset **no se incluye en este repositorio**. Descárguelo desde su fuente original y conserve el ZIP con un nombre que comience por:
+El dataset **no se incluye en este repositorio**. Loanterior, teniendo en cuenta que este tiene un tamaño de 85 MB, por lo cual deberá ser Descárgado desde su fuente original y conserve el ZIP con un nombre que comience por:
 
 `anomaly_detection_on_nanoindentation`
+
+Ahora bien, si se requiere como evidencia se solicita se haga contacto apra pdoer enviarlo via one drive o programa de envío de archivos de gran tamaño.
 
 ## Entorno reproducible
 
